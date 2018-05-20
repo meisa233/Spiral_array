@@ -1,4 +1,5 @@
-# Spiral_array
-The problem about spiral array
+# leetcode
+
+CODE
 
 IDE:VS2017
